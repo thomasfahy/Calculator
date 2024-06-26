@@ -1,4 +1,9 @@
-
+.windowText{
+    margin-top: 9px;
+    display: flex;
+    justify-content: left;
+    margin-left: 15px;
+}
 .digitWindow{
     margin-top: 30px;
     margin-bottom: 25px;
@@ -7,6 +12,7 @@
     height: 70px;
     background-color: #ffc400;
     border: solid black 2px;
+    font-size: 40px;
 }
 .title{
     display: flex;
