@@ -1,3 +1,13 @@
+
+.digitWindow{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    width: 310px;
+    height: 70px;
+    background-color: #ffc400;
+    border: solid black 2px;
+}
 .title{
     display: flex;
     font-size: 60px;
@@ -14,12 +24,23 @@ button{
 .number:hover{
     background-color: #c5c3c3f6;
 }
+.equals:hover{
+    background-color: #c5c3c3f6;
+}
 .numberContainer{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(73, 73, 73);
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 30px;
 }
 .func{
     background-color: #bebebef6;
     font-size: 30px;
+}
+.func:hover{
+    background-color: #969696f6;
 }
