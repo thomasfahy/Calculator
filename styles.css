@@ -39,8 +39,8 @@ button{
     align-items: center;
     background-color: rgb(73, 73, 73);
     border-radius: 20px;
-    margin-left: 300px;
-    margin-right: 300px;
+    width: 400px;
+    height: 450px;
     padding-bottom: 30px;
 }
 .func{
