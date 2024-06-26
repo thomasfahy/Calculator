@@ -51,7 +51,7 @@ button{
     background-color: rgb(73, 73, 73);
     border-radius: 20px;
     width: 400px;
-    height: 450px;
+    height: 500px;
     padding-bottom: 30px;
 }
 .func{
@@ -60,4 +60,12 @@ button{
 }
 .func:hover{
     background-color: #969696f6;
+}
+.clear{
+    margin-bottom: 5px;
+    width: 320px;
+    height: 60px;
+}
+.clear:hover{
+    background-color: #bebebef6;
 }
