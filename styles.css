@@ -31,6 +31,7 @@ body{
     font-weight: 700;
     color: #4b4a4a;
     justify-content: center;
+    margin-bottom: 60px;
 }
 button{
     height: 75px;
