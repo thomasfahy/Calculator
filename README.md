@@ -1,2 +1,2 @@
 # Calculator
-thomasfahy.github.io/Calculator
+www.thomasfahy.github.io/Calculator
